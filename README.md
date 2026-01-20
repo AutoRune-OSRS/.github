@@ -40,7 +40,7 @@ A sophisticated multi-component automation platform built with modern technologi
 
 ## Repositories
 
-### [Client](./Client)
+### [Client](https://github.com/AutoRune-OSRS/Client)
 The central orchestration layer of the platform. Manages multiple concurrent instances, executes user scripts, simulates human-like interactions, and communicates with the remote dashboard.
 
 | Technology | Purpose |
@@ -61,7 +61,7 @@ The central orchestration layer of the platform. Manages multiple concurrent ins
 
 ---
 
-### [Dashboard](./Dashboard)
+### [Dashboard](https://github.com/AutoRune-OSRS/Dashboard)
 A modern React web application for remote monitoring and control via WebSocket communication.
 
 | Technology | Purpose |
@@ -81,7 +81,7 @@ A modern React web application for remote monitoring and control via WebSocket c
 
 ---
 
-### [Management](./Management)
+### [Management](https://github.com/AutoRune-OSRS/Management)
 Developer tools for maintaining the platform across version updates. Handles bytecode analysis, hook generation, API generation, and injection.
 
 | Technology | Purpose |
@@ -107,7 +107,7 @@ Developer tools for maintaining the platform across version updates. Handles byt
 
 ---
 
-### [Utilities](./Utilities)
+### [Utilities](https://github.com/AutoRune-OSRS/Utilities)
 Shared library providing common functionality across all modules.
 
 | Category | Components |
@@ -120,7 +120,7 @@ Shared library providing common functionality across all modules.
 
 ---
 
-### [Script-API](./Script-Api)
+### [Script-API](https://github.com/AutoRune-OSRS/Script-Api)
 Clean, coroutine-based API for script development with comprehensive game system coverage.
 
 | Coverage | Details |
